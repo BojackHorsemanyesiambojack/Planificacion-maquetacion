@@ -358,10 +358,11 @@ border: solid 2px blue;
 }
 
 .prod-img{
-	width: 100px;
+	width: 125px;
 	padding:0;
-	height: 100px;
+	height: 125px;
 	margin-left: 2.5rem;
+
 }
 
 .divider
@@ -397,6 +398,11 @@ border: solid 2px blue;
 .footer-content {
 	background: #000 url('images/footer.jpg') repeat-x scroll top left;
 	padding: 20px 5px;
+}
+
+.prod-container h2 h3
+{
+padding: 0;
 }
 
 #footer p {
